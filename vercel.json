@@ -27,7 +27,6 @@
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_STORE": "array",
         "SESSION_DRIVER": "cookie",
-        "SESSION_DOMAIN": null,
         "LOG_CHANNEL": "stderr",
         "DB_CONNECTION": "sqlite",
         "DB_DATABASE": "/tmp/database.sqlite"

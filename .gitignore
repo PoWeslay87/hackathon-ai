@@ -20,6 +20,10 @@
 /storage/pail
 /vendor
 /database/*.sqlite
+/bootstrap/cache/*.php
+/storage/framework/cache/data/*
+/storage/framework/views/*.php
+/storage/framework/sessions/*
 Homestead.json
 Homestead.yaml
 Thumbs.db

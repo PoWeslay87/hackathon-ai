@@ -26,18 +26,3 @@ Hackathon-AI adalah aplikasi web berbasis Artificial Intelligence yang menggunak
 - Version Control: GitHub
 
 ---
-
-## 📂 Struktur Folder
-hackathon-ai/
-│── api/
-│── app/
-│── bootstrap/
-│── config/
-│── database/
-│── public/
-│── resources/
-│── routes/
-│── storage/
-│── tests/
-│── .env.example
-│── README.md
